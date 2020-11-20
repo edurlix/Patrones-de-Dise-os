@@ -1,0 +1,13 @@
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.exe
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.deps.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.runtimeconfig.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.runtimeconfig.dev.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.dll
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.pdb
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.csprojAssemblyReference.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.AssemblyInfoInputs.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.AssemblyInfo.cs
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.dll
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.pdb
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\bin\Debug\netcoreapp3.1\PatronFabrica_CSharp.exe
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\bin\Debug\netcoreapp3.1\PatronFabrica_CSharp.deps.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\bin\Debug\netcoreapp3.1\PatronFabrica_CSharp.runtimeconfig.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\bin\Debug\netcoreapp3.1\PatronFabrica_CSharp.runtimeconfig.dev.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\bin\Debug\netcoreapp3.1\PatronFabrica_CSharp.dll
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\bin\Debug\netcoreapp3.1\PatronFabrica_CSharp.pdb
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.csprojAssemblyReference.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.AssemblyInfoInputs.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.AssemblyInfo.cs
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.dll
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.pdb
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronFabrica_CSharp\PatronFabrica_CSharp\obj\Debug\netcoreapp3.1\PatronFabrica_CSharp.genruntimeconfig.cache

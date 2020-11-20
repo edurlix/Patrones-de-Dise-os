@@ -1,0 +1,13 @@
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.csprojAssemblyReference.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.AssemblyInfoInputs.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.AssemblyInfo.cs
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\bin\Debug\netcoreapp3.1\PatronPrototype_CSharp.exe
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\bin\Debug\netcoreapp3.1\PatronPrototype_CSharp.deps.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\bin\Debug\netcoreapp3.1\PatronPrototype_CSharp.runtimeconfig.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\bin\Debug\netcoreapp3.1\PatronPrototype_CSharp.runtimeconfig.dev.json
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\bin\Debug\netcoreapp3.1\PatronPrototype_CSharp.dll
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\bin\Debug\netcoreapp3.1\PatronPrototype_CSharp.pdb
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.dll
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.pdb
+C:\Users\edurl\OneDrive\Itla\Cuarto Cuatrimestre\Programacion 2\PatronPrototype_CSharp\PatronPrototype_CSharp\obj\Debug\netcoreapp3.1\PatronPrototype_CSharp.genruntimeconfig.cache
